@@ -49,12 +49,13 @@ $(function () {
     // TODO 3 - Create Collectables
     createCollectable("steve",1150,50);
     createCollectable("diamond",200 , 170, .5, .7);
-     createCollectable("diamond", 250, 180, .5 , .09)
+     createCollectable("kennedi", 250, 180, .5 , .09)
     
     // TODO 4 - Create Cannons
      createCannon("top", 150, 200);
 createCannon("right", 300, 2000);
 createcannon("left", 150, 400)
+createcannon("bottom, 700, 500");
 
     
     
