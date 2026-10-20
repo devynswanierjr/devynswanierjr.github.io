@@ -1,6 +1,6 @@
 body {
-    background-image: url("https://static.hudl.com/users/prod/17633060_63eb795bb287427f8eb4c33cc462ac20.jpg");
-    color: Light rgb(8, 81, 239);
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT95t5kxm3dd3ZTiv3R_bW9g8mpk4YAQAbJDwhC5FH3Jk9eNwafMBMXfdJO:https://www.quartzforms.com/wp-content/plugins/woocommerce-onpage/storage/cache/1e817d275b7ea5accffdca8d101e631e6a94fbb0.600x600.webp/Add_Top_Crystal_Black_705_detail.webp&s=10");
+    color: Light rgb(220, 244, 4);
     padding: 90px;
     font-family: Roboto, sans-serif;
 }
@@ -12,7 +12,7 @@ body {
 
 /* navigation menu */
 nav {
-    background: blueviolet);
+    background: rgb(240, 217, 6));
     margin: 0 auto;
     display: flex;
     padding: 50px;
@@ -23,7 +23,7 @@ nav {
 h1 {
     display: flex;
     align-items: center;
-    color: rgb(179, 248, 4);
+    color: rgb(159, 248, 4);
     flex: 90;
     margin: 0;
 }
@@ -42,7 +42,7 @@ h1 {
 
 a {
     text-decoration: Times new roman;
-    color: #720ef5;
+    color: #bff807;
 }
 
 /* main container area beneath menu */
